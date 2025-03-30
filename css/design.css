@@ -9,7 +9,7 @@ body {
 canvas {
     border: 2px solid white;
     background-color: #111;
-    margin-bottom: 25px;
+    margin-bottom: 30px;
 }
 
 #hud {
@@ -20,7 +20,7 @@ canvas {
     border: 2px solid white;
     padding: 15px;
     transform: translateX(-50%);
-    font-size: 18px;
+    font-size: 19px;
     font-family: 'Press Start 2P', cursive;
 }
 
